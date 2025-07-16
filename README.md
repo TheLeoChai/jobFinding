@@ -28,31 +28,18 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the main script:
-
-```bash
-python main.py
-```
-
-This will:
+The scripts in this repository currently does:
 - Scrape companies that use Workday
 - Discover their job portals
 - Search for relevant job listings based on keywords
+- Save all results into csv files.
 
-## Configuration
-
-- Customize your keywords and other settings in the `config.py` file.
-- Update your resume and personal information in the `resume_info.json` (future feature for auto-application).
 
 ## Notes
 
 - This is an ongoing project. The auto-apply functionality is in development.
-- Make sure to follow each site's terms of use when scraping or applying.
 - For educational and personal use only.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests for new features or improvements.
 
 ## License
 
