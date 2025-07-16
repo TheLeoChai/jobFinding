@@ -1,0 +1,5 @@
+pandas
+tqdm
+python-dotenv
+googlesearch-python
+selenium
